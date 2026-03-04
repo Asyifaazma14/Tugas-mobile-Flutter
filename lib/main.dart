@@ -38,7 +38,7 @@ class HomePage extends StatelessWidget{
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.center, 
                   children: [
-                    Image.network("https://picsum.photos/200/300"),
+                    Image.network("https://img.lovepik.com/background/20211022/medium/lovepik-beach-vacation-background-image_401714871.jpg"),
                     SizedBox(height: 15),
                     Text(
                       "Artikel tentang Liburan Terbaru",
